@@ -1,0 +1,36 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #074217;
+    }
+    /* class style */
+    .intro {
+      background-color: #006a4e;
+      color: rgb(57, 11, 100);
+      padding: 40px;
+      text-align: center;
+    }
+    .culture {
+      background-color: #0a2b4d;
+      color: #4d0d0d;
+      padding: 40px;
+      text-align: center;
+    }
+    /* id style */
+    #mainTitle {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    }
+    #cultureTitle {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+  </style>
